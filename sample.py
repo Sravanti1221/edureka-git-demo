@@ -1,7 +1,7 @@
 import numpy
 
-a = 150
-b = 80
+a = 110
+b = 81
 
 sum = a + b
 
