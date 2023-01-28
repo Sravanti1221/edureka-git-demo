@@ -8,3 +8,5 @@ sum = a + b + c
 
 print ("sum of three  numbers is = ") sum 
 one line added
+two line added
+third line added
